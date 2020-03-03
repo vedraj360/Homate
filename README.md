@@ -9,8 +9,8 @@ In Development
 ## Developed UI
 
 <p float="left">
-  <img src="https://github.com/vedraj360/Homate/blob/master/Screenshots/Screenshot_1.png" width="300" />
-  <img src="https://github.com/vedraj360/Homate/blob/master/Screenshots/Screenshot_2.png" width="300" /> 
+  <img src="https://github.com/vedraj360/Homate/blob/master/Screenshots/Screenshot_1.png" width="300" hspace="40" />
+  <img src="https://github.com/vedraj360/Homate/blob/master/Screenshots/Screenshot_2.png" width="300" hspace="40" /> 
 </p>
 
 
