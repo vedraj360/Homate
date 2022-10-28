@@ -1,10 +1,10 @@
-# Homate
+# Homate (Inavtive)
 Android Application for Home Automation.
 
 
 ## Current Status
 ```bash
-In Development
+This is just xml design as of now and developer is not planing to working on this as I have confirmed this. I will be working on forked version of this so for any questions contact me.
 ```
 ## Developed UI
 
